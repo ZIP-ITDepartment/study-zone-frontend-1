@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-study-zone",
+  "version": "1.0.0",
+  "description": "My swell Nuxt.js project",
+  "author": "Renz Mergenio",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.4",
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "pusher-js": "^5.0.3",
+    "vuelidate": "^0.7.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/laravel-echo": "^1.0.3",
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
