@@ -1,4 +1,4 @@
-# nuxt-study-zone
+# study-zone
 
 > My swell Nuxt.js project
 
